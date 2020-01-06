@@ -2,6 +2,22 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
+* Steps for running the project
+1. Git clone using cmd (https://github.com/rushikeshw1/angular-test.git)
+2. cd angular-test
+3. npm install
+4. ng serve
+
+* Points to be taken into consideration
+
+1. I have covered and solve all the points mention in the assignment.
+2. Web application with header and footer.
+3. In header give two menus How it works? and Users.
+4. Implemented Lazy Loading in Project.
+5. Created Generic Model file .
+6. For Designing, I have used Bootstrap and Angular Material Both.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
